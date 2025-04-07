@@ -1,4 +1,3 @@
-ANALISA DATA TRANSJAKARTA PADA BULAN APRIL 2023
 Analisis Perjalanan dan Rekomendasi Rute Optimal Menggunakan Data Transjakarta
 
 Transportasi publik seperti Transjakarta memegang peran penting dalam mobilitas masyarakat Jakarta. Dengan jumlah pengguna yang terus meningkat, diperlukan analisis mendalam terhadap pola perjalanan penumpang untuk meningkatkan efisiensi dan kualitas layanan.
